@@ -1,4 +1,4 @@
-# Monte Carlo Pi Estimation
+## Monte Carlo Pi Estimation | Python (matplotlib)
 This project uses a **Monte Carlo simulation** to estimate the value of π. Wanted to try this project after reading *Fooled by Randomness* by Nicolas Nassim Taleb.
 
 ## How It Works
