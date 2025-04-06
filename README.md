@@ -10,5 +10,9 @@ This project uses a **Monte Carlo simulation** to estimate the value of π. Want
 
 ## Running the Code
 To run the simulation:
+
+Run the code:
 ```sh
+git clone https://github.com/clrsims/monte-carlo-pi.git
+cd monte-carlo-pi
 python monte_carlo_pi.py
